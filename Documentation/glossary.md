@@ -1,0 +1,141 @@
+---
+title: "Glossary"
+slug: "glossary"
+excerpt: ""
+hidden: false
+metadata: 
+  image: []
+  robots: "index"
+createdAt: "Wed Jul 08 2020 21:56:46 GMT+0000 (Coordinated Universal Time)"
+updatedAt: "Wed Jul 08 2020 21:56:46 GMT+0000 (Coordinated Universal Time)"
+---
+Ecommerce (and banking.. and life) is full of terms which you might not understand - we've certainly expanded our vocabulary in building an Internet Payment Gateway.
+
+To make things easier here is a collection of some of the terms you might come across dealing with Internet Payments, Internet Merchant Facilities and Credit Card payments in general.
+
+**Acceptor**  
+Any party which accepts credit card transactions.
+
+**Access Code**  
+Commonly used by MiGS - this is part of the authentication for your merchant account.
+
+**Acquirer**  
+Also referred to as "acquiring bank" or "acquiring financial institution". An acquirer is an entity that initiates and maintains relationships with merchants for the acceptance of payment cards.
+
+**Authentication**  
+Verification that someone is who they say they are. When you log in to a website with a username and password the process behind that is called Authentication. 
+
+**Authorization**  
+Approval of a transaction by or on behalf of an issuer according to defined operations regulations. The merchant receives, via telephone or authorisation terminal, this approval to process the transaction.
+
+**CVV/CV2/CSV/CVC/CAV/CSC/Security Code**  
+Also known as Card Validation Code or Value, or Card Security Code. This commonly refers to the 3 or 4 digit code printed on the back of the card on the signature panel (or on the front of the card for an American Express card).
+
+**Capture**  
+The process of completing a pre-authorised transaction.
+
+**Chargeback**  
+A dispute resolution process that members use to determine the responsible party in a chargeback related dispute.
+
+**Clearing**  
+The facilitation of funds transfer between institutions.
+
+**Cryptography**  
+Discipline of mathematics and computer science concerned with information security, particularly encryption and authentication. In applications and network security, it is a tool for access control, information confidentiality, and integrity. In short, principals of cryptography is used to make sensitive data unreadable.
+
+**e-commerce**  
+Electronic commerce, commonly known as e-commerce refer to the buying and selling of products or services over electronic systems such as the internet and other computer networks.
+
+**EFTPOS**  
+Electronic Funds Transfer at Point of Sale - the general term used for debit card based systems for processing transactions through terminals at points of sale.
+
+**Encryption**  
+The process of transforming information using an algorithm to make it unreadable to anyone accept those possessing special knowledge.
+
+**Financial Institution**  
+Any commercial bank, federal or state savings and loan association, federal or state savings bank, or credit union.
+
+**Fraud**  
+Fraud is an intentional deception made for personal gain or to damage another individual.
+
+**HTTPS**  
+Acronym for "hypertext transfer protocol over secure socket layer". Secure HTTP that provides authentication and encrypted communication on the World Wide Web designed for security-sensitive communication such as web-based logins.
+
+**Hashing**  
+Process of rendering cardholder data unreadable by converting data into a fixed-length message digest via Strong Cryptography. Hashing is a (mathematical) function in which a non-secret algorithm takes any arbitrary length message as input and produces a fixed length output (usually called a "hash code" or "message digest"). A hash function should have the following properties:
+
+- It is computationally infeasible to determine the original input given only the hash code. 
+- It is computationally infeasible to find two inputs that give the same hash code.
+
+**Interchange**  
+The exchange of transaction data between acquirers and issuers. 
+
+Also refers to the fee involved between a merchant bank and a card scheme, usually passed on to the merchant (this is usually around 1-2%).
+
+**JSON**  
+JavaScript Object Notation - a lightweight data interchange format which is easy for humans to read and write. JSON is the data format used in the Fat Zebra API.
+
+**JavaScript**  
+A scripting language commonly used within website to provide client side programming support. Part of the foundation for JSON.
+
+**MOTO**  
+Mail Order/Telephone Order. A transaction initiated by mail or telephone to be debited or credited to a bankcard account.
+
+**Merchant**  
+A merchant is defined as any entity that accepts payment cards bearing the logos of any of the five members of PCI SSC (American Express, Discover, JCB, MasterCard or Visa) as payment for goods and/or services.
+
+**Merchant Bank**  
+A bank that has entered into an agreement with a merchant to accept deposits generated by bankcard transactions; also called the acquirer or acquiring bank.
+
+**Merchant ID**  
+A unique number assigned by the acquirer to identify the merchant.
+
+**MiGS**  
+Mastercard Internet Gateway Service.
+
+**PAN**  
+Acronym for "primary account number" and also referred to as "account number" or "card number". The PAN is a unique card number (typically for credit or debit cards) that identifies the issuer and the particular cardholder account.
+
+**PCI-DSS**  
+Payment Card Industry - Data Security Standards is an open global forum launched in 2006 that is responsible to enhance Payment Card Industry data security. 
+
+The councils five founding global payment brands are American Express, Discover Financial Services, JCB International, Mastercard Worldwide and Visa Inc.
+
+**Payment Gateway**  
+A third party which handles the interaction between a merchant and the acquiring bank in a secure environment. Payment gateways commonly provide additional flexibility and functionality then direct integration with your bank, and allow for your to change banks without changing your integration.
+
+**Recurring Payments**  
+Payments by an issuer to an acquirer on behalf of a cardholder who authorises a merchant to bill the cardholder's account on a recurring basis (such as monthly or quarterly). The amount of each payment may be the same or may fluctuate. Also referred to as a pre-authorised order (not to be confused with pre-authorization for transactions).
+
+**Refund**  
+Opposite of a purchase transaction; namely, the cardholder returns goods to the merchant and is credited for their value. Positive interchange and merchant service charge are reversed.
+
+**Reversal**  
+See Chargeback.
+
+**SSL**  
+Acronym for "Secure Sockets Layer". SSL is an established industry standard that encrypts the channel between a web browser and web server to ensure the privacy and reliability of data transmitted over this channel. Most people would know SSL as HTTPS, or recognise the 'padlock' icon in the browser indicating a website is secure.
+
+**Scheme**  
+Card Scheme refers mainly to Visa and MasterCard, as the owners of the payment scheme, into which a bank or any other eligible financial institution can become a member. Other schemes include American Express, JCB, Discover and more.
+
+**Secure Code/Verified by Visa/3D Secure**  
+3D Secure, which is also known MasterCard SecureCode and Verified by VISA (VbV) is a mechanism designed to provide an additional layer of security and fraud prevention for online transactions. Usually when 3D Secure is used the customer will be prompted for a password they have setup, on a web page hosted by their bank or an approved third party. Also now known as Secure Cardholder Authentication.
+
+**Settlement**  
+The deposit of cleared funds into the merchants designated account (settlement account). Settlement usually occurs late at night, or is considered 'next day', however some merchant banks in Australia now offer real-time settlement.
+
+**Sweep Account**  
+Also known as a settlement account. Generally funds are deposited here and transferred to an assets account.
+
+**Terminal ID**  
+A unique number assigned by the acquirer to identify the terminal.
+
+**Token**  
+A value which is not considered sensitive - used in lieu of sensitive data as an identifier or reference.
+
+**Tokenization**  
+Tokenization is the process of replacing some piece of sensitive data with a value that is not considered sensitive in the context of the environment that consumes the token and the original sensitive data.
+
+**Void**  
+The process of canceling a pre-authorised transaction (voiding).
