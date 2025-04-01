@@ -1,0 +1,2 @@
+# Cloud Payments Reseller API
+
